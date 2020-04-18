@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Jenkins\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "c:\\Jenkins\\JenkinsGroovy\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Jenkins\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "c:\\Jenkins\\JenkinsGroovy\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\Kundu1s\\.nuget\\packages\\",
-      "outputPath": "C:\\Jenkins\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "c:\\Jenkins\\JenkinsGroovy\\JenkinsGroovy\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kundu1s\\AppData\\Roaming\\NuGet\\NuGet.Config",

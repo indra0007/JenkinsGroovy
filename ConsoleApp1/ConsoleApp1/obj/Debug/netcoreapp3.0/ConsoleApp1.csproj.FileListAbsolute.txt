@@ -1,0 +1,11 @@
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.exe
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.deps.json
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.json
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.runtimeconfig.dev.json
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.dll
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.0\ConsoleApp1.pdb
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.csprojAssemblyReference.cache
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.AssemblyInfo.cs
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.dll
+c:\Jenkins\JenkinsGroovy\JenkinsGroovy\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.0\ConsoleApp1.pdb
