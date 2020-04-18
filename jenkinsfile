@@ -1,4 +1,5 @@
 node {
+checkout scm
     stage('SCM') {
 	echo 'Gathering code from version control'
         sh 'dotnet build ConsoleApp1'
