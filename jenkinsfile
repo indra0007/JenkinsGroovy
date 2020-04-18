@@ -1,8 +1,8 @@
-node('agent2') {
+node {
 checkout scm
     stage('SCM') {
 	echo 'Gathering code from version control'
-        bat 'dotnet build ConsoleApp1'
+        sh 'dotnet build ConsoleApp1'
     }
     stage('Build') {
         echo 'Building....'
